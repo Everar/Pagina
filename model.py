@@ -1,6 +1,6 @@
 import web, datetime
 
-db_host=' am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
+db_host='am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
 db_name='azrd3bql1guetrj0'
 db_user='r6dakcllmlu9yrvx'
 db_pw='kv4j39xhign75jre'
